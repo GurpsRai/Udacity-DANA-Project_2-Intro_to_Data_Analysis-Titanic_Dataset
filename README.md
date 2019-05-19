@@ -1,6 +1,6 @@
 ## Investigate a Dataset
 
-This project was submitted for the Introduction to Data Analysis element of Udacity’s Data Analyst Nanodgree.
+This project was submitted for the Introduction to Data Analysis element of Udacity’s Data Analyst Nanodegree.
 
 ### Project Requirements: 
  
